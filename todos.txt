@@ -1,0 +1,6 @@
+clean
+throw
+speak
+play
+work
+cook
