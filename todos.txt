@@ -4,3 +4,6 @@ Fly
 Run
 Catch
 Try
+Wash the dishes.Repair the computer.
+Clean the room.
+
