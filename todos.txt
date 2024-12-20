@@ -1,9 +1,6 @@
-Clean
-Throw
-Fly
-Run
-Catch
-Try
-Wash the dishes.Repair the computer.
 Clean the room.
-
+Check the homework
+Do the homework.
+Go for a walk.
+Repair computer.
+Wash the dishes.
