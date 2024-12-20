@@ -2,12 +2,12 @@ import functions
 import FreeSimpleGUI as sg
 import time
 
-sg.theme("DarkBlack1")
+sg.theme("LightBrown11")
 
 clock = sg.Text("", key="clock")
 label = sg.Text("Type in a To-Do")
 input_box = sg.InputText(tooltip="Enter a todo", key="todo")
-add_button = sg.Button("Add")
+add_button = sg.Button(size=10, image_source="add.png", tooltip="Add a Todo", key="Add")
 list_box = sg.Listbox(values=functions.get_todos(), key="todos",
                       enable_events=True, size=[45, 10])
 edit_button = sg.Button("Edit")
